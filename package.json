@@ -1,0 +1,22 @@
+{
+  "name": "bingr-be",
+  "version": "1.0.0",
+  "description": "Backend for Bingr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonjonbenben/Bingr-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonjonbenben/Bingr-be/issues"
+  },
+  "homepage": "https://github.com/jonjonbenben/Bingr-be#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
